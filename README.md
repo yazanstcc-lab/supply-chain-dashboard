@@ -8,3 +8,4 @@ Supply Chain & Logistics Dashboard | Power BI
 - Enabled data-driven decision making for logistics and operations
 
 Tools: Power BI, Power Query, Excel, Mysql
+![Dashboard](Dashboard.png)
